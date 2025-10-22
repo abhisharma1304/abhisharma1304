@@ -2,7 +2,7 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/abishekhkumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abishekh-kumar-42ba87190/)
-[![Email](https://img.shields.io/badge/Email-Abhisharma.kp26@gmail.com-red?style=flat&logo=gmail)](mailto:Abhisharma.kp26@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Abhisharma.ak13@gmail.com-red?style=flat&logo=gmail)](mailto:Abhisharma.kp26@gmail.com)
 ![GitHub Followers](https://img.shields.io/github/followers/abhi88377?label=Follow%20Me&style=social)
 
 **Data Science Enthusiast | Machine Learning Practitioner | Data Analyst**
